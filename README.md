@@ -11,5 +11,3 @@ Tick 3*:  Concurrency - Concurrent Queues
 Tick 4:        Chat Server  
 Tick 5:        Chat Server with Message Database  
 Tick 5*:   Chat Server Federation  
-
-PDF for each exercise included in each folder.
