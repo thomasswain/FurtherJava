@@ -3,7 +3,7 @@ Further exercises to develop understanding of Java.
 
 Contents:
 
-Tick 1:       Introduction to sockets
+Tick 1:\t\t\t\t       Introduction to sockets\n
 Tick 2:       Generics, Reflection
 Tick 2 Star:  Classloader Security
 Tick 3:       Concurrency - Threads
